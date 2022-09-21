@@ -1,12 +1,14 @@
 ---
-title: Parallel Processing and Parameters Test Green testRepo 
-description: Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
+parser: v2
 author_name: Rich Heilman
 author_profile: https://github.com/rich-heilman
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface  
 time: 15
 ---
+
+# Parallel Processing and Parameters Test Green testRepo 
+<!-- description --> Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 
 ## Prerequisites  
 - This tutorial is designed for #SAP HANA Cloud.
@@ -15,27 +17,28 @@ time: 15
 - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://github.com/mamosova/tutorials/edit/master/tutorials/test1111/accardion.md)
 - **Web iDE:** Configuring Eclipse with SAP HANA Cloud Platform Tools for Java
 
-## Details
-### You will learn  
+## You will learn  
 - How to take full advantage of parallel # processing in SAP HANA by using table variables
 
+## Intro
 In this exercise, we will modify the code of procedure `get_po_header_data`  so that it takes full advantage of the parallel processing within HANA by using table variables.
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Images with border, video)]
+### Images with border, video
+
 
 1. Return to your procedure called `get_po_header_data`.
 
-    !![Existing Procedure](1_1.png)
+    <!-- border -->![Existing Procedure](1_1.png)
 
 2. Define two tabular output parameters which will be used to ### explicitly pass the results of the SELECT statements to the caller.
 
-    !![Define output](1_2.png)
+    <!-- border -->![Define output](1_2.png)
 
 3. Next, assign SELECT statements to the output parameters as shown here.
 
-    !![assign select](1_3.png)
+    <!-- border -->![assign select](1_3.png)
     
     DAM video:
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
@@ -76,10 +79,9 @@ Video in iframe:
     END
     ```
 
-[DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 2: ](Accordion component which contains tables in Body)]
+### Accordion component which contains tables in Body
+
 
 ***Tables:***
 
@@ -102,8 +104,6 @@ and
 
 
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 3](Accordion component which contains Headers in Body)]
 ***Headers***
@@ -116,8 +116,6 @@ and
 
 ###### This is an h6 header
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Accordion component which contains Lists in Body)]
 ***Lists***
@@ -137,8 +135,6 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 5](Accordion component which contains nested lists in Body)]
 You can create nested lists: 
@@ -148,8 +144,6 @@ You can create nested lists:
     * one_one
     * two
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 6](Accordion component which contains Blockquotes in Body)]
 ***Blockquotes***
@@ -160,8 +154,6 @@ In the words of Abraham Lincoln:
 
 > Pardon my French
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 7](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
 ***There are three different types of messages: Note, Caution and Warning.***
@@ -187,8 +179,6 @@ In the words of Abraham Lincoln:
 
 >This is a note. 
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 8](Accordion component which contains Task Lists in Body)]
 **Task Lists*** (Please note, this requires empty line before task list):
@@ -200,8 +190,6 @@ In the words of Abraham Lincoln:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-[DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 9](Accordion component which contains code block and no code block in Body)]
 ***Code blocks:***
@@ -227,7 +215,5 @@ In the words of Abraham Lincoln:
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
-[DONE]
-[ACCORDION-END]
 
 ---

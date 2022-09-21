@@ -1,29 +1,31 @@
 ---
-title: Add a URL App to Your Portal Site Test Green testRepo 2
-description: Create a URL app and add it to the launchpad page on your Portal site.
+parser: v2
 time: 15
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
 author_name: Lindsay Bert
 ---
 
-## Details
-### You will learn
+# Add a URL App to Your Portal Site Test Green testRepo 2
+<!-- description --> Create a URL app and add it to the launchpad page on your Portal site.
+
+## You will learn
   - How to create a URL app and add it to your site
 
+## Intro
 In this tutorial you'll add a URL app to your Portal site.
 
-[ACCORDION-BEGIN [Step 1: ](Go to the Content Manager)]
+### Go to the Content Manager
+
 
 
 1. Click the **Content Manager** icon in the left panel of the Site Manager.
 
     ![Content manager icon](1-content-manager-icon.png)
 
-[DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 2: ](Create and configure new app)]
+### Create and configure new app
+
 
 
 Click **New** and select **App** from the list.
@@ -76,10 +78,9 @@ You have now configured the URL app and in the next step you will go back to the
 
 
 
-[DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 3: ](View the app that you created)]
+### View the app that you created
+
 Click the Content Manager icon in the left side panel of the App editor to navigate to the top level of your configured content.
 
 ![Go to content manager icon](6-go-to-content-manager-icon.png)
@@ -93,10 +94,9 @@ For end users to view the app in runtime, you must assign the app to a role. Any
 
 This is described in the following steps.
 
-[DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 4: ](Assign the app to the Everyone role)]
+### Assign the app to the Everyone role
+
 
 In this step, you'll assign the **Everyone** role to your app.
 
@@ -116,37 +116,35 @@ In this step, you'll assign the **Everyone** role to your app.
 
 5. Click **Save**.
 
-[DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 3: ](First question)]
+### First question
 
-[VALIDATE_3]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 4: ](Second question)]
 
-[VALIDATE_4]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 5: ](Third question)]
+### Second question
 
-[VALIDATE_5]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 6: ](Fourth question)]
 
-[VALIDATE_6]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 7: ](New question)]
+### Third question
 
-[VALIDATE_7]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 8: ](New2 question)]
 
-[VALIDATE_8]
-[ACCORDION-END]
+
+### Fourth question
+
+
+
+
+### New question
+
+
+
+
+### New2 question
+
+
+
 
 ---
