@@ -120,5 +120,34 @@ In this step, you'll assign the **Everyone** role to your app.
 [DONE]
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [Step 3: ](First question)]
+
+[VALIDATE_3]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 4: ](Second question)]
+
+[VALIDATE_4]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 5: ](Third question)]
+
+[VALIDATE_5]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 6: ](Fourth question)]
+
+[VALIDATE_6]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 7: ](New question)]
+
+[VALIDATE_7]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [Step 8: ](New2 question)]
+
+[VALIDATE_8]
+[ACCORDION-END]
 
 ---
