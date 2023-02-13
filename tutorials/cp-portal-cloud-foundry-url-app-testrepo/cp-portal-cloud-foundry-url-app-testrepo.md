@@ -3,7 +3,6 @@ parser: v2
 time: 15
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
-author_name: Lindsay Bert
 ---
 
 # Add a URL App to Your Portal Site Test Green testRepo 2
