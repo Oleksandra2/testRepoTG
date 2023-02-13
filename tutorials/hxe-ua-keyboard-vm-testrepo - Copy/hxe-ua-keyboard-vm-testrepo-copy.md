@@ -1,7 +1,5 @@
 ---
 parser: v2
-author_name: John Currie
-author_profile: https://github.com/JCurrie27
 tags: [ tutorial>beginner, topic>javascript,tutorial>community ]
 primary_tag: topic>user-interface   
 time: 5
